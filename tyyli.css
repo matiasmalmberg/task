@@ -1,0 +1,31 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(26, 196, 202);
+        margin: 0 auto; max-width: 700px; 
+}
+h1 {
+    color: rgb(10, 87, 112);
+    font-size: 66px;
+}
+
+h2 {
+    color: orange;
+    font-size: 34px;
+}
+
+.date, .lead {
+ background-color: whitesmoke;
+}
+
+a:hover {
+    
+   background-color: rgb(22, 5, 5);
+}
+
+a:active {
+    background-color: black;
+    color: red;
+}
+img {
+    border-radius:50%;
+}
